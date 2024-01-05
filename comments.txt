@@ -1,0 +1,38 @@
+decoradores y clases en angular
+directivas principales ngif(destruye) ngfor
+
+un componente en angular solo necesita un .ts un html inline , css , archivos spcc(archivos de testing )
+
+aplicaciones, modulos
+
+
+Este es un breve listado de los temas fundamentales:
+
+    Crear proyectos de Angular
+
+    Explicar cada archivo y directorio de un proyecto
+
+Componentes:  código en html y clase typescript
+Botón
+servicios: singletons fuertes (funciones , controlador)
+Directivas creadas por Angular: parecido a componentes pero html con funcionalidad integrada ,estructurales: modifican enl html , atribustos: cambian la apariencia del complemento
+
+Módulos: se compone de componentes,rutas,directivas y servicios, hay modulos de terceros y se pueden usar librerias de javascript
+    One way data binding
+    Uso del AngularCLI - Angular Command Line Interface
+Rutas mostrar diferentes componentes basados en el url  del navegador web
+    ngIf y ngIf-else
+
+
+
+
+
+Angular crear proyecto
+ng new <nombre de la aplicación> --standalone false
+
+los decoradores se usan solo en cierts ocaciones, no es muy normal que se usen
+funciones que pueden modificar el comportamiento de clases y metodos
+
+
+
+cuando tenemos un package,json = aplicacion de node
