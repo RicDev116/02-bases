@@ -36,3 +36,8 @@ funciones que pueden modificar el comportamiento de clases y metodos
 
 
 cuando tenemos un package,json = aplicacion de node
+
+
+@Component es un decorador que tranforma mi clase en un componente
+
+a-component para crear componente rapidamente
