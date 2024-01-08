@@ -26,7 +26,7 @@ export class DBZService {
     },
   ];
 
-  onNewCharacter(character: Character):void{
+  addCharacter(character: Character):void{
     const newCharacter:Character = {id:uuid(), ...character};
     this.characters.push(newCharacter);
     console.log(newCharacter);
