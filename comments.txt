@@ -1,3 +1,6 @@
+INSTALACIONES
+https://gist.github.com/Klerith/4816679624c1cb528f8e05d902fd7cff
+
 decoradores y clases en angular
 directivas principales ngif(destruye) ngfor
 
@@ -38,7 +41,7 @@ funciones que pueden modificar el comportamiento de clases y metodos
 cuando tenemos un package,json = aplicacion de node
 
 
-ng serve para correr servidor
+ng serve -o para correr servidor
 
 
 
@@ -81,4 +84,5 @@ temas puntuales :
     - npm install
     - ng serve -o
     - leer el readme
-    
+
+
