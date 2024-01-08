@@ -38,8 +38,47 @@ funciones que pueden modificar el comportamiento de clases y metodos
 cuando tenemos un package,json = aplicacion de node
 
 
+ng serve para correr servidor
+
+
+
 @Component es un decorador que tranforma mi clase en un componente
 
 a-component para crear componente rapidamente
 
  ng g c heroes/list ->comando para crear componente de angular cli
+
+ Modulos en angular
+si tiene la palabra module, va en los imports
+
+
+
+
+Seccion 5:
+- servicios
+- comunicacion entre modulos
+- inyeccion de dependencias
+
+temas puntuales :
+    Profundizar un poco más en los módulos
+
+    FormsModule
+
+    ngModel
+
+    @Inputs
+
+    @outputs
+
+    Servicios
+
+    Métodos en servicios
+
+    Depuraciones
+
+
+    cuando se descarag codigo de angular pasos a seguir:
+    - npm install
+    - ng serve -o
+    - leer el readme
+    
