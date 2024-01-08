@@ -5,7 +5,10 @@
 
   <div class="col">
 
-    <dbz-list [characterList]="characters"></dbz-list>
+    <dbz-list
+      [characterList]="characters"
+      (onDeleteCharacter)="onDeleteCharacter($event)"
+    ></dbz-list>
 
   </div>
 
