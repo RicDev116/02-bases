@@ -86,3 +86,10 @@ temas puntuales :
     - leer el readme
 
 
+
+
+    en formularios no se recomienda usar twowaydatabinding
+    cuando tenemos parentesis: evento: (click)
+    cuando tenemos llaves cuadradas: atributo: [class]
+
+
